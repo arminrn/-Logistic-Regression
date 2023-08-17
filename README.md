@@ -1,8 +1,15 @@
 ## Machine Learning Algorithms
 
 # Description
+
 Logistic Regression
+
 SVM
-Trees
+
+Tree
+
+Ensemble Models (Random Forest & XGboost)
+
 KNN
+
 ANN
