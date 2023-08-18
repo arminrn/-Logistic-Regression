@@ -8,7 +8,7 @@ SVM
 
 Tree
 
-Ensemble Models (Random Forest & XGboost)
+Ensemble Models (Random Forest & XGboost etc)
 
 KNN
 
