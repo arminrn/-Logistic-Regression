@@ -12,4 +12,4 @@ Ensemble Models (Random Forest & XGboost)
 
 KNN
 
-ANN
+Deep Learning (ANN & CNN)
